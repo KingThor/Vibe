@@ -1,0 +1,2 @@
+# VibeX
+Elegant lightweight mediaplayer
